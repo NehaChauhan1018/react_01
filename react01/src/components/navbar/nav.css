@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin: 25px 50px 75px 100px;
+    
+}
+.left-div{
+
+}
+.right-div{
+
+   
+
+}
+.nav-item{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
