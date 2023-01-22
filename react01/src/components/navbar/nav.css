@@ -5,12 +5,14 @@
     
 }
 .left-div{
-
+    margin: 15px;
 }
 .right-div{
 
-   
+}
 
+li{
+    padding: 10px;
 }
 .nav-item{
     list-style: none;

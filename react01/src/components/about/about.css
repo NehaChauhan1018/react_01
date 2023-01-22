@@ -1,3 +1,57 @@
 .nav-list{
 
 }
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+h1{
+   
+    font-size: 40px;
+    margin-left: 15%;
+    
+}
+
+p{
+    font-size: 18px;
+    color: grey;
+    margin-left: 15%;
+}
+
+button {
+    margin-top: 40px;
+    margin-left: 50px;
+    transition-duration: 0.4s;
+    border-radius: 55px;
+    background-color: #458FF6; 
+     border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #073a6a; 
+    color: white;
+  }
+
+
+
+.left-box{
+    padding-left: 50px;
+    flex:1;
+    flex-direction: column;
+    /* border: 30px; */
+}
+
+.right-box{
+    flex:2;
+    padding-left: 16%;
+}
+
+.about-title{
+    display: flex;
+}
